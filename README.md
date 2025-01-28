@@ -1,5 +1,5 @@
 ### 4.2_Spring_Framework_Basics_Level2
-##CRUD exercise with MySQL
+## CRUD exercise with MySQL
 
 Access the page ->https://start.spring.io/, and generate a Spring boot project with the following characteristics:
 
